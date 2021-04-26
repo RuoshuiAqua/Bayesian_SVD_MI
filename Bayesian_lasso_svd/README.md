@@ -1,4 +1,4 @@
-Bayesian lasso svd without missing data
+Bayesian Lasso SVD without missing data
 
 1. run ``python ./script/simulation_data.py`` to generated simulated data.
 2. run ``python ./script/compute_prior_parameters`` to compute parameters for prior distirbutions using an empirical Bayesian approach
